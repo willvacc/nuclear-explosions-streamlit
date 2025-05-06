@@ -14,7 +14,7 @@ with top_left:
 
 with top_right:
     with st.expander("💡 Little Boy Bomb – Historical Context", expanded=False):
-        st.image("pages/Little_Boy_bomb.jpg", caption="Little Boy Bomb - 1945", width=400)
+        st.image("pages/Little_Boy_bomb.jpg", caption="Little Boy Bomb - 1945", use_container_width=True)
         st.markdown("""
         **💡 Did you know?**  
         *Little Boy* was the first atomic bomb ever used in warfare, dropped on Hiroshima on August 6, 1945. It used uranium-235 and had a blast yield of around 15 kilotons.
