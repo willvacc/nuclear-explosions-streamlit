@@ -2,6 +2,7 @@
 # CS230: Section 1
 # Data: Nuclear Explosions
 # URL: https://nuclear-explosions-app-autotujh3tohqokkgdnz5k.streamlit.app
+# Description: This program explores global nuclear test data from 1945–1998 using filters, maps, and charts.
 
 import streamlit as st
 
