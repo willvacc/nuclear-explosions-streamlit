@@ -1,7 +1,8 @@
 # Name: Will Vaccari
 # CS230: Section 1
 # Data: Nuclear Explosions
-# URL: Link to web app on streamlit
+# URL: https://nuclear-explosions-app-autotujh3tohqokkgdnz5k.streamlit.app
+
 
 import streamlit as st
 
