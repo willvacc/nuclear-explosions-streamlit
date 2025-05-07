@@ -40,7 +40,7 @@ st.markdown("---")
 col1, col2 = st.columns([1, 2])
 
 with col1:
-    st.image("mushroom_cloud001.webp", width=400, caption="Castle Bravo Test - 1954")
+    st.image("mushroom_cloud001.webp", width=300, caption="Castle Bravo Test - 1954")
 
 with col2:
     st.markdown("""
